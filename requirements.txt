@@ -70,7 +70,7 @@ Keras-Preprocessing==1.0.2
 kiwisolver==1.0.1
 kubernetes==7.0.0
 lockfile==0.12.2
-lxml==3.8.0
+lxml==4.6.2
 Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.0
