@@ -123,7 +123,7 @@ qtconsole==4.4.1
 regex==2017.4.5
 requests==2.19.1
 requests-oauthlib==1.0.0
-rsa==4.0
+rsa==4.7
 s3transfer==0.1.13
 sagemaker==1.10.0
 scikit-learn==0.19.2
