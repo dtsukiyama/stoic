@@ -4,7 +4,7 @@ alembic==0.8.10
 apache-airflow==1.10.0
 asn1crypto==0.24.0
 astor==0.7.1
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 bleach==2.1.2
 boto3==1.9.5
