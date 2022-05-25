@@ -107,7 +107,7 @@ pycparser==2.19
 pyfiglet==0.7.5
 Pygments==2.2.0
 PyInquirer==1.0.2
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyparsing==2.2.1
 python-daemon==2.1.2
 python-dateutil==2.7.3
