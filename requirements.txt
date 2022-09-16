@@ -71,7 +71,7 @@ kiwisolver==1.0.1
 kubernetes==7.0.0
 lockfile==0.12.2
 lxml==3.8.0
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.3
